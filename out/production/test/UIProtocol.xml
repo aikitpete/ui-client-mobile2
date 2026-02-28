@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<UIProtocol version="1.0">
-    <events>
-        <event id="components.connection.connect">
-            <!-- description of client -->
-        </event>
-    </events>
-</UIProtocol>
